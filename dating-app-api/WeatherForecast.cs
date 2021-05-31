@@ -1,6 +1,6 @@
 using System;
 
-namespace dating_app_api
+namespace Sp.DatingApp
 {
     public class WeatherForecast
     {
